@@ -1,4 +1,3 @@
-name: Generate LG Channels M3U + EPG (Multi-Region)
 
 on:
   schedule:
